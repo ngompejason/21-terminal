@@ -16,8 +16,7 @@ install_package() {
     fi
 }
 
-# Check and install git and make
-install_package git
+# Check and install make
 install_package make
 
 # Define the path to the script's directory
