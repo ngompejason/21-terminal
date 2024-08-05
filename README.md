@@ -2,7 +2,7 @@
 
 ![terminal](./terminal.png)
 
-This is my profile for UNIX or Ubuntu, I just use the default the gnome-terminal app.
+This is my profile for UNIX or Ubuntu, I just use the default the gnome-terminal app. my starship config is highly inspire by the [Gruvbox Rainbow Preset] (https://starship.rs/presets/gruvbox-rainbow).
 
 These commands were last tested on August 2024 on Ubuntu 22.04.
 
