@@ -41,5 +41,5 @@ The shell that I use is "Bash", the script below will:
 ```bash
 ./install_02.sh
 ```
-**I'm still a noob when it comes to shell scripts, so if you have any issues, better way of __doing__ things, or complaints, use the Issues tab and let me know. I will be happy to work on it with you.**
+**I'm still a noob when it comes to shell scripts, so if you have any issues, better way of _doing_ things, or complaints, use the Issues tab and let me know. I will be happy to work on it with you.**
 
