@@ -2,21 +2,24 @@
 
 ![terminal](./terminal.png)
 
-This is my profile for UNIX or Ubuntu, I just use the default the gnome-terminal app. my starship config is highly inspire by the [Gruvbox Rainbow Preset] (https://starship.rs/presets/gruvbox-rainbow).
+This is my profile for UNIX or Ubuntu, I just use the default the gnome-terminal app. my starship config is highly inspire by the [Gruvbox Rainbow Preset](https://starship.rs/presets/gruvbox-rainbow).
 
 These commands were last tested on August 2024 on Ubuntu 22.04.
 
+**Update your software repositories and Install Git.**
+
 ```bash
-# Update your software repositories.
-sudo apt-get update
-sudo apt-get upgrade
-
-# Install Git.
-sudo apt-get install -y git
-
+sudo apt-get update && sudo apt-get upgrade && sudo apt-get install -y git
 ```
 
 # Installation
+
+**Clone the git repo(using hppts)**
+
+```bash
+git clone https://github.com/ngompejason/21-terminal.git
+```
+
 **Go to the path of the clone git**
 
 ```bash
